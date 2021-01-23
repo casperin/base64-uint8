@@ -1,8 +1,26 @@
 {
-    "name": "base64-uint8",
-    "version": "0.0.1",
-    "type": "module",
-    "scripts": {
-        "test": "node index.test.js"
-    }
+  "name": "base64-uint8",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "description": "This package encodes and decodes `Uint8Array`s to and from strings.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casperin/base64-uint8.git"
+  },
+  "keywords": [
+    "base64",
+    "encoder",
+    "decoder",
+    "uint8array"
+  ],
+  "author": "Gorm Casper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casperin/base64-uint8/issues"
+  },
+  "homepage": "https://github.com/casperin/base64-uint8#readme"
 }

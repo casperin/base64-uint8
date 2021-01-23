@@ -1,0 +1,8 @@
+{
+    "name": "base64-uint8",
+    "version": "0.0.1",
+    "type": "module",
+    "scripts": {
+        "test": "node index.test.js"
+    }
+}
